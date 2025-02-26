@@ -1,10 +1,7 @@
 {
-  "/not-found": "app/not-found.js",
-  "/register/customer/page": "app/register/customer/page.js",
-  "/page": "app/page.js",
   "/register/vendor/page": "app/register/vendor/page.js",
   "/customer/dashboard/page": "app/customer/dashboard/page.js",
-  "/customer/vendors/[id]/page": "app/customer/vendors/[id]/page.js",
   "/customer/vendors/page": "app/customer/vendors/page.js",
-  "/vendor/dashboard/page": "app/vendor/dashboard/page.js"
+  "/vendor/dashboard/page": "app/vendor/dashboard/page.js",
+  "/vendor/services/page": "app/vendor/services/page.js"
 }
