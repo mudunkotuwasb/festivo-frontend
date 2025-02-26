@@ -1,0 +1,7 @@
+{
+  "/register/vendor/page": "app/register/vendor/page.js",
+  "/page": "app/page.js",
+  "/vendor/dashboard/page": "app/vendor/dashboard/page.js",
+  "/customer/dashboard/page": "app/customer/dashboard/page.js",
+  "/vendor/services/page": "app/vendor/services/page.js"
+}
